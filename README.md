@@ -1,2 +1,7 @@
+Test document creation for Github
+
 # psscripts
-Productivity and cost analyses
+This repository will contain codes used for Productivity and cost analysis.
+
+
+
